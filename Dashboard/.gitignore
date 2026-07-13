@@ -1,0 +1,5 @@
+*.pyc
+data_fetcher.cpython-310.pyc
+*.PYC
+*.txt
+__pycache__
